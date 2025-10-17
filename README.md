@@ -4,8 +4,15 @@ A simple **Python-based Student Management System** that allows users to **add, 
 All student data is stored in a **JSON file**, ensuring persistence between sessions.
 
 ---
-**#[🎥 Watch the demo]** 
-https://github.com/docodeawais/Students_Management/blob/main/Student_Management.webm
+## 🎬 Project Demo
+
+<video src="https://raw.githubusercontent.com/docodeawais/Students_Management/main/Student_Management.webm" 
+       controls 
+       width="600">
+</video>
+
+🎥 [Click here if the video doesn’t load](https://raw.githubusercontent.com/docodeawais/Students_Management/main/Student_Management.webm)
+
 
 ---
 
