@@ -1,8 +1,11 @@
 # 🎓 Student Management System (Python Mini Project)
 
-[🎥 Watch the demo] https://github.com/docodeawais/Students_Management/blob/main/Student_Management.webm
 A simple **Python-based Student Management System** that allows users to **add, view, search, update, and delete** student records.  
 All student data is stored in a **JSON file**, ensuring persistence between sessions.
+
+---
+**#[🎥 Watch the demo]** 
+https://github.com/docodeawais/Students_Management/blob/main/Student_Management.webm
 
 ---
 
